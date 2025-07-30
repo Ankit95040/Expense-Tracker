@@ -1,0 +1,24 @@
+.balanceCard {
+  max-width: 280px;
+  margin: 40px auto;
+  padding: 12px 16px; /* reduced vertical padding */
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading {
+  font-size: 18px; /* slightly smaller */
+  font-weight: bold;
+  margin-bottom: 8px;
+  letter-spacing: 0.4px;
+}
+
+.amount {
+  font-size: 28px; /* smaller amount text */
+  font-weight: 700;
+  margin-top: 0;
+}
